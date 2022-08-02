@@ -100,6 +100,10 @@ body{
 .btn-barra:hover{
   background: #1F4690;
 }
+.btn-barra:hover a{
+  color: white;
+  text-decoration: none;
+}
 /* content */
 .content h1{
   font-weight: 900;
@@ -516,30 +520,7 @@ body{
 #tab-9:checked ~ .cards-area .cartao .row-1{
   margin-left: -66.8%;
 }
-/* carousel */
-/* .pai-carousel{
-  position: absolute;
-  align-items: center;
-  justify-content: center;
-}
-.carrosel{
-  position: relative;
-  width: 500px;
-  height: 500px;
-  background-color: yellow;
-  display: inline-block;
-  left: 50px;
-  bottom: 150px;
 
-}
-.foto{
-  position: relative;
-  width: 700px;
-  height: 700px;
-  background-color: red;
-  display: inline-block;
-  left: 150px;
-} */
 
 .carousel-item{
   width: 100%;
@@ -612,6 +593,16 @@ li.lista{
 }
 .canva{
   background-image: url(../img/carrosel.png);
+}
+.imag-carrosel img{
+  position: relative;
+  top: 80px;
+  left: 200px;
+  width: 290px;
+  height: 290px;
+  object-fit: cover;
+  border-radius: 3rem 0 3rem 3rem;
+
 }
 
 /* testinominal */
