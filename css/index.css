@@ -265,7 +265,7 @@
                                rgba(2,2,36,0.7) 0%,
                                rgba(9,9,221,0.7) 35%,
                                rgba(0,221,255,0.7) 100%),
-                                url(../rerapiaconv.jpeg);
+                                url(../img/rerapiaconv.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: center;
@@ -393,7 +393,7 @@
                                rgba(2,2,36,0.7) 0%,
                                rgba(65, 160, 242, 0.7) 35%,
                                rgba(0, 113, 242, 0.7) 100%),
-                                url(../conversa.jpeg);
+                                url(../img/conversa.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: center;
